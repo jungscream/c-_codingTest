@@ -5,5 +5,6 @@
 ### 2025_07_07
 1. [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478#qna)
 2. [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp)
-3. [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
-4. [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp#)
+### 2025_07_08
+1. [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
+2. [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp#)
