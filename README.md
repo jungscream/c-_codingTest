@@ -8,3 +8,5 @@
 ### 2025_07_08
 1. [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
 2. [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp#)
+### 2025_07_09
+1. [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp)
